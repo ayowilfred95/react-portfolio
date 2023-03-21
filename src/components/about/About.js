@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css';
-import { FiGithub } from 'react-icons/fi';
+
 
 
 function About() {
@@ -28,7 +28,7 @@ function About() {
                     <h4 className="a-award-title">Stack</h4>
                     <p className="a-award-desc">
                     <ul>React</ul>
-                    <ul> <FiGithub />Git</ul>
+                    <ul> Git</ul>
                     <ul>Solidity</ul>
                     <ul>Remix</ul>
                     <ul>IPFS</ul>

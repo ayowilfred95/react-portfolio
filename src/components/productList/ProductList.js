@@ -7,10 +7,9 @@ function ProductList() {
   return (
     <div  className='pl'>
         <div className="pl-texts">
-            <h1 className="pl-title">Create & inspire. It's Lama</h1>
+            <h1 className="pl-title">My Latest Work</h1>
             <p className="pl-desc">
-                Lama is a creative portfolio styles that your work has been waiting
-                to see, Beutiful home.
+               View all projects
             </p>
         </div>
         <div className="pl-list">
