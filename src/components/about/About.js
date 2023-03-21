@@ -15,7 +15,7 @@ function About() {
             As a Web3 Developer,App Developer,Frontend Developer and Technical Writer
             </p>
             <p className="a-desc">
-            I am a skilled Web3 developer with a strong focus on the Ethereum ecosystem. I am proficient in using tools such as Hardhat, Remix, and IPFS to develop decentralized applications (dApps) and smart contracts that are secure, efficient, and scalable. I am well-versed in Solidity, the programming language used to write smart contracts on Ethereum, and I have experience deploying smart contracts on the Ethereum network.
+            I am a self taught Web3 developer with a strong focus on the Ethereum ecosystem. I am proficient in using tools such as Hardhat, Alchemy,Ethers.js Remix, and IPFS to develop decentralized applications (dApps) and smart contracts that are secure, efficient, and scalable. I am well-versed in Solidity, the programming language used to write smart contracts on Ethereum, and I have experience deploying smart contracts on the Ethereum network.
 
             </p>
             <h3> I specialize in creating beautiful, responsive, and user-friendly interfaces using modern technologies such as React.js and Next.js. I have a strong understanding of HTML, CSS, and JavaScript, as well as other front-end technologies such as Redux, Sass, and styled-components.
