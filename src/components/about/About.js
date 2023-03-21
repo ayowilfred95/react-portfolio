@@ -1,7 +1,4 @@
-import React from 'react'
 import './about.css';
-
-
 
 function About() {
   return (
@@ -33,9 +30,6 @@ function About() {
                     <ul>Solidity</ul>
                     <ul>Remix</ul>
                     <ul>IPFS</ul>
-                    
-
-                    
                     </p>
                 
                 </div>
