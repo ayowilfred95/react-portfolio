@@ -15,13 +15,14 @@ function About() {
         <div className="a-right">
             <h1 className="a-title">About Me</h1>
             <p className="a-sub">
-            As a Web3 Developer,Frontend Developer and Technical Writer
+            As a Web3 Developer,App Developer,Frontend Developer and Technical Writer
             </p>
             <p className="a-desc">
             I am a skilled Web3 developer with a strong focus on the Ethereum ecosystem. I am proficient in using tools such as Hardhat, Remix, and IPFS to develop decentralized applications (dApps) and smart contracts that are secure, efficient, and scalable. I am well-versed in Solidity, the programming language used to write smart contracts on Ethereum, and I have experience deploying smart contracts on the Ethereum network.
 
             </p>
-            <h3> I specialize in creating beautiful, responsive, and user-friendly interfaces using modern technologies such as React.js and Next.js. I have a strong understanding of HTML, CSS, and JavaScript, as well as other front-end technologies such as Redux, Sass, and styled-components.</h3>
+            <h3> I specialize in creating beautiful, responsive, and user-friendly interfaces using modern technologies such as React.js and Next.js. I have a strong understanding of HTML, CSS, and JavaScript, as well as other front-end technologies such as Redux, Sass, and styled-components.
+            </h3>
             <div className="a-award">
                 <img src="https://media.istockphoto.com/id/1347499538/photo/close-up-low-angle-view-group-of-star-shape-crystal-trophy.jpg?b=1&s=612x612&w=0&k=20&c=xYACIFsXh_rzbFJoBXJ97juLJ6OHePEY_m64L7QJ5SU=" alt="" className="a-award-img" />
                 <div className="a-award-texts">

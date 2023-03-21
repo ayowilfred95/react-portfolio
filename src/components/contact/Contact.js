@@ -49,20 +49,20 @@ function Contact() {
                 <div className="c-info-item">
                 <a href='https://www.linkedin.com/in/ayomide-wilfred-95083a104/'  target="_blank" rel="noreferrer">
                 <FaLinkedin className='c-icon' href='' />
+                Linkedin
                 </a>
-                    Linkedin
                 </div>
                 <div className="c-info-item">
                 <a href='https://twitter.com/ayomidewilfred9'  target="_blank" rel="noreferrer">
                 <FaTwitter className='c-icon' />
+                Twitter
                 </a>
-                    Twitter
                 </div>
                 <div className="c-info-item">
                <a href='https://github.com/ayowilfred95'  target="_blank" rel="noreferrer">
                <FaGithubSquare className='c-icon' />
+               Github
                 </a> 
-                    Github
                 </div>
             </div>
         </div>
