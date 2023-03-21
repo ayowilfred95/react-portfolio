@@ -1,0 +1,146 @@
+.i{
+    display: flex;
+    height: 100vh;
+    
+}
+.i-left{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    
+}
+.i-right{
+    flex:1;
+    position: relative;
+   
+}
+.i-left-wrapper{
+    padding: 50px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   
+}
+
+.i-intro{
+    font-size: 30px;
+    font-weight: 300;
+}
+.i-name{
+    font-size: 60px;
+}
+.i-title {
+    height: 50px;
+    overflow: hidden;
+    
+}
+.i-title-wrapper{
+    height: 100%;
+    animation: move 10s ease-in-out infinite alternate;
+}
+
+@keyframes move {
+    25%{
+        transform: translateY(-50px);
+    }
+    50%{
+        transform: translateY(-100px);
+    }
+    75%{
+        transform: translateY(-150px);
+    }
+    100%{
+        transform: translateY(-200px);
+    }
+}
+
+.i-title-item{
+    height: 50px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #59b256;
+    display: flex;
+    align-items: center;
+  
+}
+.i-img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+}   
+
+.i-description {
+    font-size: 20px;
+}
+
+@media  screen and (max-width: 480px) {
+    .i{
+        flex-direction: column;
+
+    }
+    .i-left-wrapper{
+        padding: 10px;
+        height: 100%;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .i-desc{
+        display: none ;
+    }
+}
+
+
+/* Media query for screens with max width of 480px (Mobile) */
+
+@media screen and (max-width: 480px) {
+    .i{
+        display: block;
+        height: 100%;
+        flex-direction: column;
+       
+    }
+    
+    
+    .i-left-wrapper{
+        flex-direction: column;
+        padding: 10px;
+        height: 100%;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        
+    }
+    
+    
+    
+    .i-title-item{
+        height: 100%;
+        font-size: 24px;
+        font-weight: bold;
+        color: #59b256;
+        display: block;
+    }
+    
+    .i-img{
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+        background-color:#59b256;
+        position: static;
+    }
+    
+    .i-bg{
+        width: 100%;
+        height: auto;
+        top: 0;
+        right: 0;
+        position: absolute;
+    }
+    
+    .i-description{
+        font-size: 16px;
+    }
+}
