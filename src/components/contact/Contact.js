@@ -49,20 +49,20 @@ function Contact() {
                 <FaEnvelope className='c-icon' />
                 ayowilfred1995@gmail.com
                 </div>
-                <div className="c-info-item">
-                <a href='https://www.linkedin.com/in/ayomide-wilfred-95083a104/'  target="_blank" rel="noreferrer">
-                <FaLinkedin className='c-icon' href='' />
+                <div  className="c-info-item">
+                <a href='https://www.linkedin.com/in/ayomide-wilfred-95083a104/'  target="_blank" rel="noreferrer" style={{color: darkMode && "white"}}  >
+                <FaLinkedin  className='c-icon' href='' />
                 Linkedin
                 </a>
                 </div>
                 <div className="c-info-item">
-                <a href='https://twitter.com/ayomidewilfred9'  target="_blank" rel="noreferrer">
+                <a href='https://twitter.com/ayomidewilfred9'  target="_blank" rel="noreferrer" style={{color: darkMode && "white"}}>
                 <FaTwitter className='c-icon' />
                 Twitter
                 </a>
                 </div>
                 <div className="c-info-item">
-               <a href='https://github.com/ayowilfred95'  target="_blank" rel="noreferrer">
+               <a href='https://github.com/ayowilfred95'  target="_blank" rel="noreferrer" style={{color: darkMode && "white"}}>
                <FaGithubSquare className='c-icon' />
                Github
                 </a> 
