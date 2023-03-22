@@ -23,14 +23,16 @@ function About() {
             <div className="a-award">
                 <img src="https://media.istockphoto.com/id/1347499538/photo/close-up-low-angle-view-group-of-star-shape-crystal-trophy.jpg?b=1&s=612x612&w=0&k=20&c=xYACIFsXh_rzbFJoBXJ97juLJ6OHePEY_m64L7QJ5SU=" alt="" className="a-award-img" />
                 <div className="a-award-texts">
-                    <h4 className="a-award-title">Stack</h4>
-                    <p className="a-award-desc">
+                    <h4 className="a-award-title">Technologies</h4>
+                    <div className="a-award-desc">
                     <ul>React</ul>
+                    <ul>Nextjs</ul>
                     <ul> Git</ul>
-                    <ul>Solidity</ul>
+                    <ul>Hardhat</ul>
+                    <ul>React</ul>
                     <ul>Remix</ul>
                     <ul>IPFS</ul>
-                    </p>
+                    </div>
                 
                 </div>
             </div>
