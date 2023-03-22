@@ -1,5 +1,5 @@
 .c {
-    height: 140vh;
+    height: 100vh;
     position: relative;
 }
 .c-bg{
@@ -71,6 +71,9 @@ button{
     cursor: pointer;
     border-radius: 10px;
 }
+button :hover{
+    background-color: yellow;
+}
 
 
 @media screen and (max-width: 480px) {
@@ -95,6 +98,7 @@ button{
     font-size: 40px;
     text-align: center;
     width: 100%;
+    
     }
   
     .c-info-item {
