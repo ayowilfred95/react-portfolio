@@ -74,69 +74,64 @@ button{
 
 
 @media screen and (max-width: 480px) {
-    /* Mobile styles for screen sizes up to 480px 
-    
-    
-    /* .c-wrapper class styles */
+   
     .c-wrapper {
     flex-direction: column;
     padding: 0px 50px;
     }
     
-    .c-left class styles /
+   
     .c-left {
     order: 2;
     }
     
-    .c-right class styles /
+   
     .c-right {
     order: 1; 
     }
     
-    /* .c-title class styles */
+ 
     .c-title {
     font-size: 40px;
     text-align: center;
     width: 100%;
     }
-    
-    /* .c-info-item class styles */
+  
     .c-info-item {
     flex-direction: column;
     margin: 30px 0;
     width: 100%;
     }
     
-    /* .c-icon class styles */
+   
     .c-icon {
     margin-right: 0;
     }
     
-    /* .c-desc class styles */
+   
     .c-desc {
     font-size: 30px;
     text-align: center;
     }
-    
-    /* form styles */
+   
     form {
     margin-top: 30px;
     }
     
-    /* input styles */
+   
     input {
     width: 100%;
     height: 40px;
     margin: 10px 0;
     }
     
-    /* textarea styles */
+   
     textarea {
     height: 100px;
     margin: 10px 0;
     }
     
-    /* button styles */
+    
     button {
     width: 100%;
     padding: 10px;
