@@ -19,7 +19,7 @@ function Intro() {
                     </div>
                 </div>
                 <p className="i-description">
-                    I desisgn and develop services for customers of all sizes,
+                    I design and develop services for customers of all sizes,
                      specializing in creating stylish, modern websites, web services, 
                      app development and blockchain technology.
                 </p>
